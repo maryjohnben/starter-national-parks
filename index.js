@@ -165,3 +165,4 @@ const main = () => {
 
 // Add event listener for DOMContentLoaded
 window.addEventListener("DOMContentLoaded", main);
+//activate in html
